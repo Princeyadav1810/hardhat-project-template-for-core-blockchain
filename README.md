@@ -5,4 +5,4 @@
 - .env.example - Add the Private Key of your MetaMask Wallet's account.
 - Readme.md file - Add the Readme content inside this file.
 - package.json file – Replace the `"name"` property value from `"Project-Title"` to your actual project title. <br/>
-*Example:* `"name": "crowdfunding-smartcontract"`
+*Example:* `"name": "crowdfunding-smartcontract"` 
